@@ -1,7 +1,5 @@
 # terraform-azurerm_vnet
 
-# terraform-azurerm_vnet
-
 Este módulo Terraform cria uma rede virtual (VNet) no Azure usando o provedor Azure Resource Manager (AzureRM).
 
 ## Requisitos
